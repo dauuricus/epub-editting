@@ -1,4 +1,4 @@
-#SuperColliderの優しい紹介(第2版)のepubファイルの編集用アーカイヴ
+# SuperColliderの優しい紹介(第2版)のepubファイルの編集用アーカイヴ
 
 mdファイルからepub化、epubファイルをZIP展開したものがこのファイル。
 
