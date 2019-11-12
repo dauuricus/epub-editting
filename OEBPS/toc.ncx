@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:2870cb8c-fa4a-416d-8199-5371253e4f8a" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>UNTITLED</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="Text/title_page.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="Text/ch001.xhtml#section"/>
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>SuperColliderの優しい紹介(第2版)</text>
+      </navLabel>
+      <content src="Text/ch002.xhtml#header-n10843"/>
+      <navPoint id="navPoint-3">
+        <navLabel>
+          <text>著者 ブルーノ・ルヴィアロ</text>
+        </navLabel>
+        <content src="Text/ch002.xhtml#header-n10846"/>
+      </navPoint>
+      <navPoint id="navPoint-4">
+        <navLabel>
+          <text>翻訳 ねことほんだな</text>
+        </navLabel>
+        <content src="Text/ch002.xhtml#header-n10847"/>
+      </navPoint>
+      <navPoint id="navPoint-5">
+        <navLabel>
+          <text>Part I</text>
+        </navLabel>
+        <content src="Text/ch002.xhtml#header-n10861"/>
+        <navPoint id="navPoint-6">
+          <navLabel>
+            <text>BASICS</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10862"/>
+        </navPoint>
+        <navPoint id="navPoint-7">
+          <navLabel>
+            <text>1 Hello World</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10863"/>
+        </navPoint>
+        <navPoint id="navPoint-8">
+          <navLabel>
+            <text>2 サーバーと言語</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10883"/>
+        </navPoint>
+        <navPoint id="navPoint-9">
+          <navLabel>
+            <text>2.1 サーバーの起動</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10894"/>
+        </navPoint>
+        <navPoint id="navPoint-10">
+          <navLabel>
+            <text>3 最初の正弦波</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10897"/>
+        </navPoint>
+        <navPoint id="navPoint-11">
+          <navLabel>
+            <text>4 エラーメッセージ</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10909"/>
+        </navPoint>
+        <navPoint id="navPoint-12">
+          <navLabel>
+            <text>5 パラメーターの変更</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10919"/>
+        </navPoint>
+        <navPoint id="navPoint-13">
+          <navLabel>
+            <text>6 コメント</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10931"/>
+        </navPoint>
+        <navPoint id="navPoint-14">
+          <navLabel>
+            <text>7 優先順位</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10936"/>
+        </navPoint>
+        <navPoint id="navPoint-15">
+          <navLabel>
+            <text>8 最後の post は常に post されます</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10940"/>
+        </navPoint>
+        <navPoint id="navPoint-16">
+          <navLabel>
+            <text>9 コードブロック</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10944"/>
+        </navPoint>
+        <navPoint id="navPoint-17">
+          <navLabel>
+            <text>10 Post ウィンドウをクリーンアップする方法</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10950"/>
+        </navPoint>
+        <navPoint id="navPoint-18">
+          <navLabel>
+            <text>11 SuperColliderの出力の記録</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10954"/>
+        </navPoint>
+        <navPoint id="navPoint-19">
+          <navLabel>
+            <text>12 変数</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10958"/>
+        </navPoint>
+        <navPoint id="navPoint-20">
+          <navLabel>
+            <text>12.1 "グローバル"とローカル</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10969"/>
+        </navPoint>
+        <navPoint id="navPoint-21">
+          <navLabel>
+            <text>12.2 再割り当て</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10976"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-22">
+        <navLabel>
+          <text>Part II</text>
+        </navLabel>
+        <content src="Text/ch002.xhtml#header-n10987"/>
+        <navPoint id="navPoint-23">
+          <navLabel>
+            <text>パターン</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10988"/>
+        </navPoint>
+        <navPoint id="navPoint-24">
+          <navLabel>
+            <text>13 パターンファミリー</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10989"/>
+        </navPoint>
+        <navPoint id="navPoint-25">
+          <navLabel>
+            <text>13.1 Pbind に会う</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n10993"/>
+        </navPoint>
+        <navPoint id="navPoint-26">
+          <navLabel>
+            <text>13.2 Pseq</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11000"/>
+        </navPoint>
+        <navPoint id="navPoint-27">
+          <navLabel>
+            <text>13.3 コードを読みやすくする</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11025"/>
+        </navPoint>
+        <navPoint id="navPoint-28">
+          <navLabel>
+            <text>13.4ピッチを指定する4つの方法</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11032"/>
+        </navPoint>
+        <navPoint id="navPoint-29">
+          <navLabel>
+            <text>13.5 その他のキーワード：振幅とレガート</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11087"/>
+        </navPoint>
+        <navPoint id="navPoint-30">
+          <navLabel>
+            <text>13.6 Prand</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11092"/>
+        </navPoint>
+        <navPoint id="navPoint-31">
+          <navLabel>
+            <text>13.7 Pwhite</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11095"/>
+        </navPoint>
+        <navPoint id="navPoint-32">
+          <navLabel>
+            <text>13.8 パターンボキャブラリーの拡張</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11118"/>
+        </navPoint>
+        <navPoint id="navPoint-33">
+          <navLabel>
+            <text>14 その他のパターントリック</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11137"/>
+        </navPoint>
+        <navPoint id="navPoint-34">
+          <navLabel>
+            <text>14.1 コード</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11138"/>
+        </navPoint>
+        <navPoint id="navPoint-35">
+          <navLabel>
+            <text>14.2 スケール</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11141"/>
+        </navPoint>
+        <navPoint id="navPoint-36">
+          <navLabel>
+            <text>14.3 移調</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11145"/>
+        </navPoint>
+        <navPoint id="navPoint-37">
+          <navLabel>
+            <text>14.4 マイクロトーン</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11148"/>
+        </navPoint>
+        <navPoint id="navPoint-38">
+          <navLabel>
+            <text>14.5 テンポ</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11151"/>
+        </navPoint>
+        <navPoint id="navPoint-39">
+          <navLabel>
+            <text>14.6 休符</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11156"/>
+        </navPoint>
+        <navPoint id="navPoint-40">
+          <navLabel>
+            <text>14.7 2つ以上の Pbind を一緒に再生</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11159"/>
+        </navPoint>
+        <navPoint id="navPoint-41">
+          <navLabel>
+            <text>14.8 変数の使用</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11169"/>
+        </navPoint>
+        <navPoint id="navPoint-42">
+          <navLabel>
+            <text>15 Pbind を個別に起動および停止する</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11179"/>
+        </navPoint>
+        <navPoint id="navPoint-43">
+          <navLabel>
+            <text>15.1 Pbind を楽譜として</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11181"/>
+        </navPoint>
+        <navPoint id="navPoint-44">
+          <navLabel>
+            <text>15.2 EventStreamPlayer</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11188"/>
+        </navPoint>
+        <navPoint id="navPoint-45">
+          <navLabel>
+            <text>15.3 例</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11194"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-46">
+        <navLabel>
+          <text>Part III</text>
+        </navLabel>
+        <content src="Text/ch002.xhtml#header-n11208"/>
+        <navPoint id="navPoint-47">
+          <navLabel>
+            <text>言語の詳細</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11209"/>
+        </navPoint>
+        <navPoint id="navPoint-48">
+          <navLabel>
+            <text>16 オブジェクト、クラス、メッセージ、引数</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11210"/>
+        </navPoint>
+        <navPoint id="navPoint-49">
+          <navLabel>
+            <text>17 レシーバー表記、ファンクション表記</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11222"/>
+        </navPoint>
+        <navPoint id="navPoint-50">
+          <navLabel>
+            <text>18 ネスティング</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11230"/>
+        </navPoint>
+        <navPoint id="navPoint-51">
+          <navLabel>
+            <text>19 エンクロージャー</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11259"/>
+        </navPoint>
+        <navPoint id="navPoint-52">
+          <navLabel>
+            <text>19.1 引用符</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11264"/>
+        </navPoint>
+        <navPoint id="navPoint-53">
+          <navLabel>
+            <text>19.2 括弧</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11267"/>
+        </navPoint>
+        <navPoint id="navPoint-54">
+          <navLabel>
+            <text>19.3 ブラケット</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11276"/>
+        </navPoint>
+        <navPoint id="navPoint-55">
+          <navLabel>
+            <text>19.4 中括弧</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11281"/>
+        </navPoint>
+        <navPoint id="navPoint-56">
+          <navLabel>
+            <text>20 条件：if / else および case</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11293"/>
+        </navPoint>
+        <navPoint id="navPoint-57">
+          <navLabel>
+            <text>21 関数</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11373"/>
+        </navPoint>
+        <navPoint id="navPoint-58">
+          <navLabel>
+            <text>22 配列の楽しみ</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11395"/>
+        </navPoint>
+        <navPoint id="navPoint-59">
+          <navLabel>
+            <text>22.1 新しい配列の作成</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11400"/>
+        </navPoint>
+        <navPoint id="navPoint-60">
+          <navLabel>
+            <text>22.2 その面白い感嘆符</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11403"/>
+        </navPoint>
+        <navPoint id="navPoint-61">
+          <navLabel>
+            <text>22.3 括弧の間の2つの点</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11406"/>
+        </navPoint>
+        <navPoint id="navPoint-62">
+          <navLabel>
+            <text>22.4 配列を"do"する方法</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11411"/>
+        </navPoint>
+        <navPoint id="navPoint-63">
+          <navLabel>
+            <text>23 困ったときは</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11418"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-64">
+        <navLabel>
+          <text>Part IV</text>
+        </navLabel>
+        <content src="Text/ch002.xhtml#header-n11439"/>
+        <navPoint id="navPoint-65">
+          <navLabel>
+            <text>音声合成と処理</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11440"/>
+        </navPoint>
+        <navPoint id="navPoint-66">
+          <navLabel>
+            <text>24 UGens</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11443"/>
+        </navPoint>
+        <navPoint id="navPoint-67">
+          <navLabel>
+            <text>24.1 マウス制御：インスタントテルミン</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11448"/>
+        </navPoint>
+        <navPoint id="navPoint-68">
+          <navLabel>
+            <text>24.2 のこぎりとパルス。プロットとスコープ。</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11453"/>
+        </navPoint>
+        <navPoint id="navPoint-69">
+          <navLabel>
+            <text>25 音声レート、制御レート</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11459"/>
+        </navPoint>
+        <navPoint id="navPoint-70">
+          <navLabel>
+            <text>25.1 pollメソッド</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11477"/>
+        </navPoint>
+        <navPoint id="navPoint-71">
+          <navLabel>
+            <text>26 UGen 引数</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11485"/>
+        </navPoint>
+        <navPoint id="navPoint-72">
+          <navLabel>
+            <text>27 スケーリング範囲</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11490"/>
+        </navPoint>
+        <navPoint id="navPoint-73">
+          <navLabel>
+            <text>27.1 スケールとrangeメソッド</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11493"/>
+        </navPoint>
+        <navPoint id="navPoint-74">
+          <navLabel>
+            <text>27.2 MULを使用したスケーリングと追加</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11498"/>
+        </navPoint>
+        <navPoint id="navPoint-75">
+          <navLabel>
+            <text>27.3 linlin and friends</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11505"/>
+        </navPoint>
+        <navPoint id="navPoint-76">
+          <navLabel>
+            <text>28 個々のシンセを停止する</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11509"/>
+        </navPoint>
+        <navPoint id="navPoint-77">
+          <navLabel>
+            <text>29 設定メッセージ</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11512"/>
+        </navPoint>
+        <navPoint id="navPoint-78">
+          <navLabel>
+            <text>30 オーディオ bus</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11516"/>
+        </navPoint>
+        <navPoint id="navPoint-79">
+          <navLabel>
+            <text>30.1 Out and In UGens</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11519"/>
+        </navPoint>
+        <navPoint id="navPoint-80">
+          <navLabel>
+            <text>31 マイク入力</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11538"/>
+        </navPoint>
+        <navPoint id="navPoint-81">
+          <navLabel>
+            <text>32 マルチチャンネル拡張</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11543"/>
+        </navPoint>
+        <navPoint id="navPoint-82">
+          <navLabel>
+            <text>33 Bus オブジェクト</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11557"/>
+        </navPoint>
+        <navPoint id="navPoint-83">
+          <navLabel>
+            <text>34 パンニング</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11566"/>
+        </navPoint>
+        <navPoint id="navPoint-84">
+          <navLabel>
+            <text>35 Mix と Splay</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11577"/>
+        </navPoint>
+        <navPoint id="navPoint-85">
+          <navLabel>
+            <text>36 Playing an audio file</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11587"/>
+        </navPoint>
+        <navPoint id="navPoint-86">
+          <navLabel>
+            <text>37 Synth Nodes</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11595"/>
+        </navPoint>
+        <navPoint id="navPoint-87">
+          <navLabel>
+            <text>37.1 The glorious doneAction: 2</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11601"/>
+        </navPoint>
+        <navPoint id="navPoint-88">
+          <navLabel>
+            <text>38 エンベロープ</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11606"/>
+        </navPoint>
+        <navPoint id="navPoint-89">
+          <navLabel>
+            <text>38.1 Env.perc</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11612"/>
+        </navPoint>
+        <navPoint id="navPoint-90">
+          <navLabel>
+            <text>38.2 Env.triangle</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11618"/>
+        </navPoint>
+        <navPoint id="navPoint-91">
+          <navLabel>
+            <text>38.3 Env.linen</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11622"/>
+        </navPoint>
+        <navPoint id="navPoint-92">
+          <navLabel>
+            <text>38.4 Env.pairs</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11625"/>
+        </navPoint>
+        <navPoint id="navPoint-93">
+          <navLabel>
+            <text>38.4.1 Envelopes—not just for amplitude</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11634"/>
+        </navPoint>
+        <navPoint id="navPoint-94">
+          <navLabel>
+            <text>38.5 ADSR Envelope</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11638"/>
+        </navPoint>
+        <navPoint id="navPoint-95">
+          <navLabel>
+            <text>38.6 EnvGen</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11649"/>
+        </navPoint>
+        <navPoint id="navPoint-96">
+          <navLabel>
+            <text>39 シンセの定義</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11653"/>
+        </navPoint>
+        <navPoint id="navPoint-97">
+          <navLabel>
+            <text>39.1 SynthDef と Synth</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11655"/>
+        </navPoint>
+        <navPoint id="navPoint-98">
+          <navLabel>
+            <text>39.2 Example</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11661"/>
+        </navPoint>
+        <navPoint id="navPoint-99">
+          <navLabel>
+            <text>39.3 Under the hood</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11691"/>
+        </navPoint>
+        <navPoint id="navPoint-100">
+          <navLabel>
+            <text>40 Pbind can play your SynthDef</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11694"/>
+        </navPoint>
+        <navPoint id="navPoint-101">
+          <navLabel>
+            <text>41 コントロール Bus</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11711"/>
+        </navPoint>
+        <navPoint id="navPoint-102">
+          <navLabel>
+            <text>41.1 asMap</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11717"/>
+        </navPoint>
+        <navPoint id="navPoint-103">
+          <navLabel>
+            <text>42 実行の順序</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11720"/>
+        </navPoint>
+        <navPoint id="navPoint-104">
+          <navLabel>
+            <text>42.1 Groups</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11739"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-105">
+        <navLabel>
+          <text>Part V</text>
+        </navLabel>
+        <content src="Text/ch002.xhtml#header-n11744"/>
+        <navPoint id="navPoint-106">
+          <navLabel>
+            <text>WHAT’S NEXT?</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11745"/>
+        </navPoint>
+        <navPoint id="navPoint-107">
+          <navLabel>
+            <text>43 MIDI</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11747"/>
+        </navPoint>
+        <navPoint id="navPoint-108">
+          <navLabel>
+            <text>44 OSC</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11764"/>
+        </navPoint>
+        <navPoint id="navPoint-109">
+          <navLabel>
+            <text>44.1 別のコンピューターから OSC を送信する</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11769"/>
+        </navPoint>
+        <navPoint id="navPoint-110">
+          <navLabel>
+            <text>44.2 スマートフォンから OSC を送信する</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11772"/>
+        </navPoint>
+        <navPoint id="navPoint-111">
+          <navLabel>
+            <text>45 Quarks と plug-ins</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11784"/>
+        </navPoint>
+        <navPoint id="navPoint-112">
+          <navLabel>
+            <text>46 追加リソース</text>
+          </navLabel>
+          <content src="Text/ch002.xhtml#header-n11788"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-113">
+        <navLabel>
+          <text>Notes</text>
+        </navLabel>
+        <content src="Text/ch002.xhtml#header-n11806"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

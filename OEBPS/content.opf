@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="epub-id-1" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>SuperColliderの優しい紹介</dc:title>
+    <dc:date id="epub-date">2019-10-21T14:38:01Z</dc:date>
+    <dc:identifier>988edf6b-3f59-5910-1e80-ac4acb3728ce</dc:identifier>
+    <dc:description>音声合成プログラムであるSuperColliderのビギナー向けのチュートリアルブック A Gentle Introduction to SuperCollider (2nd edition) を日本語翻訳した書籍。SuperColliderについて初めて学ぶひとで、プログラムコードを書いたことがなくても、読み進められる内容。</dc:description>
+    <dc:language>ja</dc:language>
+    <meta property="dcterms:modified">2019-10-25T09:32:09Z</meta>
+    <dc:contributor>nekotohondana</dc:contributor>
+    <dc:creator id="cre">Bruno Ruviaro</dc:creator>
+    <meta refines="#cre" property="role" scheme="marc:relators">aut</meta>
+    <dc:identifier id="epub-id-1">urn:uuid:2870cb8c-fa4a-416d-8199-5371253e4f8a</dc:identifier>
+    <meta name="Sigil version" content="0.9.18" />
+    <meta name="cover" content="file0_png" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="stylesheet1" href="Styles/stylesheet1.css" media-type="text/css"/>
+    <item id="title_page_xhtml" href="Text/title_page.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch001_xhtml" href="Text/ch001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch002_xhtml" href="Text/ch002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="file12_png" href="Images/file12.png" media-type="image/png"/>
+    <item id="file11_png" href="Images/file11.png" media-type="image/png"/>
+    <item id="file10_png" href="Images/file10.png" media-type="image/png"/>
+    <item id="file9_png" href="Images/file9.png" media-type="image/png"/>
+    <item id="file8_png" href="Images/file8.png" media-type="image/png"/>
+    <item id="file7_png" href="Images/file7.png" media-type="image/png"/>
+    <item id="file6_png" href="Images/file6.png" media-type="image/png"/>
+    <item id="file5_png" href="Images/file5.png" media-type="image/png"/>
+    <item id="file4_png" href="Images/cat2.svg" media-type="image/svg+xml"/>
+    <item id="file3_png" href="Images/bird.svg" media-type="image/svg+xml"/>
+    <item id="file2_png" href="Images/file2.png" media-type="image/png"/>
+    <item id="file1_png" href="Images/file1.png" media-type="image/png"/>
+    <item id="file0_png" href="Images/file0.png" media-type="image/png" properties="cover-image"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="prettify.css" href="Styles/prettify.css" media-type="text/css"/>
+    <item id="prettify.js" href="Misc/prettify.js" media-type="application/javascript"/>
+    <item id="run_prettify.js" href="Misc/run_prettify.js" media-type="application/javascript"/>
+    <item id="lang-sc.js" href="Misc/lang-sc.js" media-type="application/javascript"/>
+    <item id="desert.css" href="Styles/desert.css" media-type="text/css"/>
+    <item id="doxy.css" href="Styles/doxy.css" media-type="text/css"/>
+    <item id="sons-of-obsidian.css" href="Styles/sons-of-obsidian.css" media-type="text/css"/>
+    <item id="sunburst.css" href="Styles/sunburst.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="title_page_xhtml" linear="no"/>
+    <itemref idref="ch001_xhtml"/>
+    <itemref idref="ch002_xhtml"/>
+    <itemref idref="nav"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="UNTITLED" href="Text/nav.xhtml"/>
+  </guide>
+</package>
